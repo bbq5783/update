@@ -347,12 +347,6 @@
         "parent": null
       }
     },
-    "enums": {
-      "____________": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      }
-    }
+    "enums": {}
   }
 }

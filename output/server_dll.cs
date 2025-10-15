@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-15 03:33:32.187243200 UTC
+// 2025-10-15 05:01:21.796124800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: server.dll
     // Class count: 290
-    // Enum count: 3
+    // Enum count: 91
     public static class ServerDll {
         // Alignment: 4
         // Member count: 4
@@ -26,6 +26,79 @@ namespace CS2Dumper.Schemas {
             ORIENTATION_FORWARD_MOVEMENT_DIRECTION = 0x6,
             ORIENTATION_FORWARD_MOVEMENT_DIRECTION_AND_UP_CONTROL_POINT = 0x7,
             ORIENTATION_FACE_ENTITY = 0x8
+        }
+        // Alignment: 4
+        // Member count: 29
+        public enum C_EconItemView : uint {
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0
+        }
+        // Alignment: 1
+        // Member count: 36
+        public enum CGameSceneNode : byte {
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0,
+             = 0x0
         }
         // Parent: CPointEntity
         // Field count: 10

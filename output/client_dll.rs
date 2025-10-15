@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-15 03:33:32.187243200 UTC
+// 2025-10-15 05:01:21.796124800 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -7,128 +7,8 @@ pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
         // Class count: 212
-        // Enum count: 97
+        // Enum count: 0
         pub mod client_dll {
-            // Alignment: 8
-            // Member count: 0
-            #[repr(u64)]
-            pub enum CFuncTrackAuto {
-
-            }
-            // Alignment: 8
-            // Member count: 15
-            #[repr(u64)]
-            pub enum CEnvExplosion {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 0
-            #[repr(u64)]
-            pub enum CFuncLadderAlias_func_useableladder {
-
-            }
-            // Alignment: 8
-            // Member count: 9
-            #[repr(u64)]
-            pub enum CFuncTrackChange {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 1
-            #[repr(u64)]
-            pub enum CMarkupVolumeTagged_Nav {
-                 = 0x0
-            }
-            // Alignment: 4
-            // Member count: 0
-            #[repr(u32)]
-            pub enum CHandleDummy {
-
-            }
-            // Alignment: 4
-            // Member count: 0
-            #[repr(u32)]
-            pub enum CInfoTarget {
-
-            }
-            // Alignment: 8
-            // Member count: 4
-            #[repr(u64)]
-            pub enum CLogicNPCCounterAABB {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 5
-            #[repr(u64)]
-            pub enum CFogVolume {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 3
-            #[repr(u64)]
-            pub enum CGunTarget {
-                 = 0x0
-            }
-            // Alignment: 4
-            // Member count: 0
-            #[repr(u32)]
-            pub enum CPointClientCommand {
-
-            }
-            // Alignment: 4
-            // Member count: 1
-            #[repr(u32)]
-            pub enum CPointGiveAmmo {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 10
-            #[repr(u64)]
-            pub enum CEntityDissolve {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 4
-            #[repr(u64)]
-            pub enum CMarkupVolumeWithRef {
-                 = 0x0
-            }
-            // Alignment: 8
-            // Member count: 0
-            #[repr(u64)]
-            pub enum CSpriteAlias_env_glow {
-
-            }
-            // Alignment: 8
-            // Member count: 5
-            #[repr(u64)]
-            pub enum CEnvLaser {
-                 = 0x0
-            }
-            // Alignment: 4
-            // Member count: 0
-            #[repr(u32)]
-            pub enum CFuncPropRespawnZone {
-
-            }
-            // Alignment: 8
-            // Member count: 14
-            #[repr(u64)]
-            pub enum CCSTeam {
-                 = 0x0
-            }
-            // Alignment: 4
-            // Member count: 1
-            #[repr(u32)]
-            pub enum CEnvHudHint {
-                 = 0x0
-            }
-            // Alignment: 4
-            // Member count: 0
-            #[repr(u32)]
-            pub enum CInfoTargetServerOnly {
-
-            }
             // Parent: C_Inferno
             // Field count: 0
             pub mod C_FireCrackerBlast {

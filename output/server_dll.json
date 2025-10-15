@@ -8148,6 +8148,53 @@
       }
     },
     "enums": {
+      "CBombTarget": {
+        "alignment": 15,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEconItemAttribute": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEntityIdentity": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEnvSoundscape": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CEnvSoundscapeProxy": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CFilterAttributeInt": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CFilterMultipleAPI": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
       "CFuncMover__OrientationUpdate_t": {
         "alignment": 4,
         "members": {
@@ -8173,9 +8220,518 @@
         },
         "type": "uint32"
       },
-      "p____": {
-        "alignment": 255,
+      "CGameSceneNode": {
+        "alignment": 1,
+        "members": {
+          "": 0
+        },
+        "type": "uint8"
+      },
+      "CGrenadeTracer": {
+        "alignment": 19,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoDynamicShadowHint": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoFan": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CInfoTarget": {
+        "alignment": 5,
         "members": {},
+        "type": "unknown"
+      },
+      "CMapInfo": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPathSimpleAPI": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CPulseAnimFuncs": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CPulseCell_BaseState": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "CPulseCell_LerpCameraSettings": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPulseCell_LimitCount": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CPulseCell_Unknown": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "CTriggerFan": {
+        "alignment": 16,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_AK47": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_BaseEntityAPI": {
+        "alignment": 0,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_BaseModelEntity": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_BasePlayerPawn": {
+        "alignment": 21,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_BasePlayerWeapon": {
+        "alignment": 25,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_BaseTrigger": {
+        "alignment": 15,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_BreakableProp": {
+        "alignment": 19,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CS2HudModelBase": {
+        "alignment": 18,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_CSGO_PreviewModel": {
+        "alignment": 24,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CSGO_PreviewPlayerAlias_csgo_player_previewmodel": {
+        "alignment": 63,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_CSGO_TeamPreviewCamera": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CSObserverPawn": {
+        "alignment": 22,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CSPlayerPawnBase": {
+        "alignment": 22,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CSTeam": {
+        "alignment": 9,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_CSWeaponBaseShotgun": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_ColorCorrectionVolume": {
+        "alignment": 18,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_DecoyProjectile": {
+        "alignment": 20,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_DynamicPropAlias_dynamic_prop": {
+        "alignment": 20,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_EconItemView": {
+        "alignment": 4,
+        "members": {
+          "": 0
+        },
+        "type": "uint32"
+      },
+      "C_EnvCubemapFog": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_EnvWindController": {
+        "alignment": 7,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_EnvWindVolume": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_FireCrackerBlast": {
+        "alignment": 132,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_Fish": {
+        "alignment": 18,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_FlashbangProjectile": {
+        "alignment": 20,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_FuncConveyor": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_FuncMonitor": {
+        "alignment": 19,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_FuncMover": {
+        "alignment": 14,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_FuncTrackTrain": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_GradientFog": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_Hostage": {
+        "alignment": 20,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_IncendiaryGrenade": {
+        "alignment": 32,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_Item_Healthshot": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_LateUpdatedAnimating": {
+        "alignment": 17,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_LightDirectionalEntity": {
+        "alignment": 14,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_LightEntity": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_LightSpotEntity": {
+        "alignment": 14,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_NametagModule": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_ParticleSystem": {
+        "alignment": 20,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_PhysMagnet": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_PointClientUIDialog": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_PointClientUIWorldPanel": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_PointCommentaryNode": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_PostProcessingVolume": {
+        "alignment": 16,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_RagdollProp": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_RopeKeyframe": {
+        "alignment": 18,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_SceneEntity__QueuedEvents_t": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_SmokeGrenadeProjectile": {
+        "alignment": 22,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_SoundEventSphereEntity": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_Team": {
+        "alignment": 6,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_TextureBasedAnimatable": {
+        "alignment": 14,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_TriggerBuoyancy": {
+        "alignment": 17,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_TriggerPhysics": {
+        "alignment": 16,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_WeaponAWP": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponAug": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponBaseItem": {
+        "alignment": 31,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_WeaponCZ75a": {
+        "alignment": 31,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_WeaponGlock": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponM4A1": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponMP5SD": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponMP7": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponNegev": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponP250": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponRevolver": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponTaser": {
+        "alignment": 31,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
+      },
+      "C_WeaponTec9": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponUMP45": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "C_WeaponXM1014": {
+        "alignment": 31,
+        "members": {},
+        "type": "unknown"
+      },
+      "IntervalTimer": {
+        "alignment": 0,
+        "members": {
+          "": 0
+        },
         "type": "unknown"
       }
     }

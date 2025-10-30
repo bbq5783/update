@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-15 05:01:21.796124800 UTC
+// 2025-10-30 10:17:00.151459700 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: meshsystem.dll

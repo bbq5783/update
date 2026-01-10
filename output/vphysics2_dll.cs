@@ -1,11 +1,33 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-10 03:04:26.255697900 UTC
+// 2026-01-10 04:05:09.843559800 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: vphysics2.dll
     // Class count: 97
-    // Enum count: 0
+    // Enum count: 3
     public static class Vphysics2Dll {
+        // Alignment: 4
+        // Member count: 3
+        public enum JointMotion_t : uint {
+            JOINT_MOTION_FREE = 0x0,
+            JOINT_MOTION_LOCKED = 0x1,
+            JOINT_MOTION_COUNT = 0x2
+        }
+        // Alignment: 4
+        // Member count: 4
+        public enum JointAxis_t : uint {
+            JOINT_AXIS_X = 0x0,
+            JOINT_AXIS_Y = 0x1,
+            JOINT_AXIS_Z = 0x2,
+            JOINT_AXIS_COUNT = 0x3
+        }
+        // Alignment: 1
+        // Member count: 3
+        public enum DynamicContinuousContactBehavior_t : byte {
+            DYNAMIC_CONTINUOUS_ALLOW_IF_REQUESTED_BY_OTHER_BODY = 0x0,
+            DYNAMIC_CONTINUOUS_ALWAYS = 0x1,
+            DYNAMIC_CONTINUOUS_NEVER = 0x2
+        }
         // Parent: None
         // Field count: 1
         //

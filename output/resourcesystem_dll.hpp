@@ -1,14 +1,15 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-10 04:05:09.843559800 UTC
+// 2026-01-31 10:20:19.099913700 UTC
 
 #pragma once
 
 #include <cstddef>
+#include <cstdint>
 
 namespace cs2_dumper {
     namespace schemas {
         // Module: resourcesystem.dll
-        // Class count: 59
+        // Class count: 58
         // Enum count: 2
         namespace resourcesystem_dll {
             // Alignment: 1
@@ -175,13 +176,6 @@ namespace cs2_dumper {
             // Metadata:
             // MResourceTypeForInfoType
             namespace InfoForResourceTypeProceduralTestResource_t {
-            }
-            // Parent: None
-            // Field count: 0
-            //
-            // Metadata:
-            // MResourceTypeForInfoType
-            namespace InfoForResourceTypeCChoreoSceneFileList {
             }
             // Parent: None
             // Field count: 2

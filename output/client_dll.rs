@@ -1,12 +1,12 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-03 01:54:37.665808400 UTC
+// 2026-04-10 14:37:15.018425500 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
 pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
-        // Class count: 528
+        // Class count: 530
         // Enum count: 12
         pub mod client_dll {
             // Alignment: 4
@@ -7918,6 +7918,14 @@ pub mod cs2_dumper {
                 pub const m_PreGenerationKVs: usize = 0x18; // KeyValues3
                 pub const m_FinalKVs: usize = 0x58; // KeyValues3
                 pub const m_vecGeneratedTextures: usize = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod __ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod __u___ {
             }
         }
     }

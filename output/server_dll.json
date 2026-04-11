@@ -19403,6 +19403,53 @@
         ],
         "parent": null
       },
+      "PF_BIAS_TYPE_STANDARD": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_INPUT_MODE_CLAMPED": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_MAP_TYPE_DIRECT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_MODIFIER_NONE": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_TURB_NONE": {
+        "fields": {
+          "": 1507365
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_TYPE_PERLIN": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_RANDOM_MODE_CONSTANT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_ROUND_TYPE_NEAREST": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_TYPE_LITERAL": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "ParticleIndex_t": {
         "fields": {
           "m_Value": 0
@@ -19958,6 +20005,64 @@
       },
       "WrappedPhysicsJoint_t": {
         "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "_": {
+        "fields": {
+          "": 1633034329,
+          "\u0002": 1701667143,
+          "\u0003": 0,
+          "\u000e\u0001": 44473840,
+          "07B�f\u0002": 0,
+          "=": -1160940048,
+          "C": 1953718125,
+          "P\t�#�\u0002": 391105472,
+          "T\u0005L��Ln�v\\x�1���A\u0016�\u0001f\u001f� �a��6k탿��4zչ\u0015R\u0017�]\u001db�ɻ��˔#�*\u001e�m����\u001c�C$E)e�{��\u0005��\u0017�����Juޜ\u000e5��K�B\u0005�`�\u0003%�M����vE�b[��\u001f�r\u0004sӻ�\u000b\u001e�$~": 0,
+          "___error_resource__.vents": 4128,
+          "___error_resource__.vpost": 574766592,
+          "___error_resource__.vsnd": 587719848,
+          "___error_resource__.vwnod": 1415530064,
+          "___error_resource__.vwrld": 1065353216,
+          "colorcorrection_00000292239009d0.vtex": 1065353216,
+          "materials/default/default_metal_tga_8fbc2820.vtex": 0,
+          "materials/dev/compute_smooth_normals_cs.vmat": 587721889,
+          "materials/dev/cs_parallel_sort_onesweep.vmat": 587721973,
+          "materials/dev/cull_aggregate_fragments.vmat": 587722183,
+          "materials/dev/deferred_hair_shadowtile_compute.vmat": 587721028,
+          "materials/dev/hair_composite.vmat": 1415530064,
+          "materials/dev/hair_noise_lut.vtex": 587720735,
+          "materials/dev/hair_processing_cs.vmat": 587721129,
+          "materials/dev/hair_render_volume.vmat": 587720947,
+          "materials/dev/lpv_debug_grid.vmat": 587720656,
+          "materials/dev/panel_normal_tga_842c0122.vtex": 1415530064,
+          "materials/dev/panel_normal_tga_8ccb9ed0.vtex": 1065353216,
+          "materials/dev/ssao_convert_depth.vmat": 0,
+          "materials/dev/ssao_downsample_depth.vmat": 0,
+          "materials/dev/ssao_scalable_ao.vmat": 0,
+          "materials/dev/sum_aggregate_cull_stats.vmat": 587722287,
+          "materials/dev/visualize_depth.vmat": 1065353216,
+          "materials/dev/visualize_instanced.vmat": 587722095,
+          "materials/dev/whitepanel_color_tga_a7576cc4.vtex": 1065353216,
+          "materials/dev/wind_noise_cs.vmat": 587721814,
+          "materials/effects/lightcookies/flashlight.vtex": 587720559,
+          "materials/particle/base_projected.vmat": 587722654,
+          "particles/error/error.vpcf": 0,
+          "soundstacks/mixgraph.vmix": 1414285638,
+          "textures/dev/blue_noise_256.vtex": 587721736,
+          "textures/dev/ggx_integrate_brdf_lut_schlick.vtex": 0,
+          "wellknown_black_1x1.vtex": 0,
+          "wellknown_black_cube_1x1.vtex": 587720128,
+          "wellknown_black_cube_array_1x1x1.vtex": 0,
+          "wellknown_depth_d32_black.vtex": 587720458,
+          "wellknown_depth_d32_white.vtex": 0,
+          "wellknown_one_16bit_1x1.vtex": 587720193,
+          "wellknown_white_1x1.vtex": 587722694,
+          "wellknown_white_1x1x1.vtex": 670445488,
+          "�": 114198320,
+          "�\u001f\u0018��\u0002": 1414285638,
+          "���\u0017�": 0
+        },
         "metadata": [],
         "parent": null
       },

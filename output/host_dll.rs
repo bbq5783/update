@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-10 14:37:15.018425500 UTC
+// 2026-04-21 03:23:40.063023400 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -9,15 +9,13 @@ pub mod cs2_dumper {
         // Class count: 2
         // Enum count: 0
         pub mod host_dll {
-            // Parent: None
-            // Field count: 1
+            // Parent: xL_8__
+            // Field count: 0
             pub mod EmptyTestScript {
-                pub const m_hTest: usize = 0x10; // CAnimScriptParam<float32>
             }
             // Parent: None
-            // Field count: 1
+            // Field count: 0
             pub mod CAnimScriptBase {
-                pub const m_bIsValid: usize = 0x8; // bool
             }
         }
     }

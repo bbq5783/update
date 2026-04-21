@@ -6,6 +6,6 @@
 namespace cs2_dumper {
     namespace slient_offsets {
         constexpr std::ptrdiff_t m_slientHookAddress = 0xC4F819;
-        constexpr std::ptrdiff_t m_slientHookReturnAddress = 0xC4F81E;
+        constexpr std::ptrdiff_t m_slientHookReturnAddress = 0xC4F825;
     }
 }

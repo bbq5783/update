@@ -1,11 +1,11 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-08-14 15:09:18.861473100 UTC
+// 2026-08-21 19:18:04.720828 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: client.dll
         // Class count: 563
-        // Enum count: 17
+        // Enum count: 14
         pub const client_dll = struct {
             // Alignment: 4
             // Member count: 5
